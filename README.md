@@ -1,0 +1,1 @@
+This is a quick, probably imperfect, AutoHotkey 2.0 script that fixes my mouse double clicking. I've used Logitech g600's for a while now, and they always end up double clicking all the time. This script removes double clicks faster than 50ms (adjustable easily) while retaining the ability to click and hold.
